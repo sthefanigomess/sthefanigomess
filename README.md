@@ -3,7 +3,6 @@
 - 🔭 Estou atualmente buscando trabalho em Desenvolvimento Web
 - 🌱 Estou atualmente aprendendo UI, backend com NodeJS
 - 📫 Contate-me pelo e-mail: sthefani.gomess@hotmail.com 
-- 😄 Pronomes: ela/dela
 
 
 <div align="center">
