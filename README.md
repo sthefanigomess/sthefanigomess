@@ -1,8 +1,9 @@
 ### Olá, me chamo Sthéfani Gomes 👋
 
-- 🔭 Estou atualmente buscando trabalho em Desenvolvimento Web
-- 🌱 Estou atualmente aprendendo UI, backend com NodeJS
-- 📫 Contate-me pelo e-mail: sthefani.gomess@hotmail.com 
+- Graduada em Ciências da Computação
+- Interessada em desenvolvimento Front-end e Back-end
+- Atualmente aprofundando conhecimentos em React e Node.js
+- Contate-me pelo e-mail: sthefani.gomess@hotmail.com 
 
 
 <div align="center">
