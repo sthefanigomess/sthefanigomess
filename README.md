@@ -6,11 +6,12 @@
 - Contate-me pelo e-mail: sthefani.gomess@hotmail.com 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/sthefanigomess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanigomess&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanigomess&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
-  
+
   <div>
     <a href="https://www.instagram.com/sthefanigomess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://discord.com/users/sthefanigomess" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
